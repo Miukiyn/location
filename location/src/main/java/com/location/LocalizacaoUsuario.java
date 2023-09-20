@@ -19,7 +19,7 @@ public class LocalizacaoUsuario {
             e.printStackTrace();
         }
     }
-
+    
     // Funcao para obter o endereco IP do usuario
     public static String obterMeuIP() throws IOException {
         URL url = new URL("https://ipinfo.io/ip");
