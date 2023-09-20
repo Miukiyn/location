@@ -6,7 +6,7 @@ Este é um simples programa em Java que permite obter a localização do usuári
 
 - Java
 - Biblioteca GSON (Google Gson) para análise JSON
-- Conexões HTTP para acessar a API ipinfo.io
+- Conexões HTTP para acessar a API [ipinfo.io](https://ipinfo.io/)
 
 ## Como Usar
 
@@ -17,7 +17,7 @@ Este é um simples programa em Java que permite obter a localização do usuári
    - Consultar a API ipinfo.io para obter informações de localização, incluindo a cidade.
    - Exibir a cidade do usuário no console.
 
-Certifique-se de que seu ambiente de desenvolvimento Java esteja configurado corretamente para executar o programa.
+Certifique-se de que seu ambiente de desenvolvimento Java esteja configurado corretamente para executar o programa. (recomendada a utilização do [Eclipse](https://eclipseide.org/)
 
 
 OBS: Este é apenas um protótipo de um projeto que estarei desenvolvendo para a faculdade neste segundo semestre de 2023. Mas já estou disponibilizando essa ideia no GitHub.
